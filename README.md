@@ -5,8 +5,8 @@ Retos Científicos
 
 ## Integrantes del equipo
 - David Felipe Chirivi Carreño
-- Integrante 2
-- Integrante 3
+- Haniel Chaves Diaz
+- Karen Tatiana Valero
 
 ---
 
