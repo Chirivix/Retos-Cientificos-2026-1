@@ -4,10 +4,9 @@
 Retos Científicos
 
 ## Integrantes del equipo
-- Integrante 1
+- David Felipe Chirivi Carreño
 - Integrante 2
 - Integrante 3
-- Integrante 4
 
 ---
 
