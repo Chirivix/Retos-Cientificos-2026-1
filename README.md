@@ -1,43 +1,45 @@
-# Proyecto: Riel de Aire DIY para el Estudio de Colisiones
+# Proyecto: Estudio Experimental de la Inercia Rotacional de una Masa Puntual
 
 ## Curso
+
 Retos Científicos
 
 ## Integrantes del equipo
-- David Felipe Chirivi Carreño
-- Haniel Chaves Diaz
-- Karen Tatiana Valero
+
+* David Felipe Chirivi Carreño
+* Haniel Chaves Diaz
+* Karen Tatiana Valero
 
 ---
 
 ## Selección del reto
 
-El reto seleccionado consiste en el diseño, construcción y validación experimental de un riel de aire de bajo costo para el estudio de colisiones unidimensionales, a un nivel conceptual correspondiente a Física I (Mecánica).
+El reto seleccionado consiste en la determinación experimental y teórica del **momento de inercia ($I$)** de una masa puntual. El proyecto utiliza un sistema de rotación con una plataforma, una polea de pasos y una masa colgante para aplicar un torque conocido.
 
-El sistema busca reproducir el funcionamiento de un riel de aire clásico de laboratorio utilizando recursos propios y fabricación digital (impresión 3D), permitiendo estudiar colisiones elásticas e inelásticas mediante la medición de velocidades antes y después del choque.
+A diferencia de los experimentos tradicionales, este enfoque integra **herramientas computacionales (Python)** para simular el comportamiento dinámico y contrastar los datos obtenidos mediante sensores o análisis de video con el modelo físico ideal.
 
 ---
 
 ## Objetivo general
 
-Diseñar y fabricar un riel de aire funcional que permita analizar experimentalmente colisiones unidimensionales y verificar principios fundamentales de la mecánica clásica.
+Validar experimentalmente la expresión teórica $I = MR^2$ para una masa puntual, analizando la relación entre el torque aplicado y la aceleración angular resultante en un sistema rotacional.
 
 ---
 
 ## Alcance del proyecto
 
-- Construcción física del dispositivo
-- Medición experimental de velocidades mediante análisis de video
-- Cálculo del coeficiente de restitución y conservación del momento
-- Comparación con modelos teóricos ideales
+* **Montaje Físico:** Configuración del sistema rotacional (Base en "A", plataforma, polea y masas).
+* **Modelado Matemático:** Aplicación de la Segunda Ley de Newton para traslación (masa colgante) y rotación (plataforma).
+* **Simulación Computacional:** Desarrollo de un script en Python para predecir el movimiento del sistema bajo diferentes condiciones de masa y radio.
+* **Análisis de Datos:** Medición de la aceleración angular ($\alpha$) y cálculo de la inercia experimental para su comparación con el valor teórico.
 
 ---
 
 ## Estado del proyecto
 
-- [x] Selección del reto
-- [x] Diseño conceptual
-- [ ] Diseño CAD
-- [ ] Fabricación
-- [ ] Experimentación
-- [ ] Análisis de resultados
+* [x] Selección del reto
+* [x] Diseño conceptual
+* [ ] Diseño CAD
+* [ ] Fabricación
+* [ ] Experimentación
+* [ ] Análisis de resultados
