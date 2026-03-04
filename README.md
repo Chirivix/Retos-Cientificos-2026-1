@@ -183,7 +183,7 @@ Validar experimentalmente la expresión teórica $I = MR^2$ para una masa puntua
 
 ## Consideraciones sobre el costo del montaje
 
-Las tres decisiones que mayor impacto tienen sobre el costo total son reemplazar la interfaz PASCO por un Arduino, fabricar la polea mediante impresion 3D, y mandar tornear el eje y la masa puntual en una torneria local en lugar de adquirir las piezas originales de PASCO. Con estas tres elecciones, el montaje completo puede construirse por debajo de $150.000 COP.
+Las tres decisiones que mayor impacto tienen sobre el costo total son fabricar la polea mediante impresion 3D, y mandar tornear el eje y la masa puntual en una torneria local en lugar de adquirir las piezas originales de PASCO. Con estas tres elecciones, el montaje completo puede construirse por debajo de $150.000 COP.
 
 Cabe mencionar que los cojinetes de bronce sinterizado, aunque introducen algo mas de friccion que los rodamientos de bolas, no representan un problema practico, ya que el procedimiento experimental contempla explicitamente la medicion y compensacion de la friccion residual mediante la determinacion de una masa de friccion.
 
