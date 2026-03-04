@@ -161,25 +161,10 @@ Validar experimentalmente la expresión teórica $I = MR^2$ para una masa puntua
 **11. Ajuste fino para masas menores a 1g**
 - Clips metalicos de oficina *(recomendado por costo)*
 - Arandelas pequenas M2 o M3
-
+  
 ---
 
-### Grupo 4 — Sistema de medicion
-
-**12. Fotocompuerta**
-- Sensor optico infrarrojo tipo barrera FC-51 con Arduino *(recomendado por costo)*
-- PASCO ME-9498A
-- Vernier VPG-BTD
-
-**13. Interfaz de adquisicion de datos**
-- Arduino Uno o Nano *(recomendado por costo)*
-- PASCO ScienceWorkshop 500/750
-- PASCO PASPORT USB Link con Adaptador Digital PS-2159
-- Vernier LabQuest 2 o LabQuest Mini
-
----
-
-### Grupo 5 — Masa puntual
+### Grupo 4 — Masa puntual
 
 **14. Masa cuadrada (~300g)**
 - Bloque de acero mecanizado en torneria local *(recomendado por costo)*
@@ -189,17 +174,12 @@ Validar experimentalmente la expresión teórica $I = MR^2$ para una masa puntua
 
 ---
 
-### Grupo 6 — Instrumentos auxiliares
+### Grupo 5 — Instrumentos auxiliares
 
 **15. Balanza**
 - Balanza digital de precision 0.1g *(recomendado por costo)*
 - Balanza analitica de 0.01g de resolucion
 
-**16. Calibrador**
-- Calibrador anaologo Vernier estandar *(recomendado por costo)*
-- Calibrador digital 0-150mm con resolucion de 0.01mm
-
----
 
 ## Consideraciones sobre el costo del montaje
 
