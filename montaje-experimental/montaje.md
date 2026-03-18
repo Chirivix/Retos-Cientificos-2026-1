@@ -6,9 +6,7 @@
 ### Grupo 1 — Base y estructura
 
 **1. Base tipo "A"**
-- Hierro fundido (opción original PASCO)
-- Acero estructural soldado con patas niveladoras *(recomendado por costo)*
-- Aluminio grueso con patas de caucho
+- https://cad.onshape.com/documents/3bfda428373b211973985f8d/w/8785cd975fd928458b8fb811/e/73601d9a7609928fb41a5e40?renderMode=0&uiState=69b09dc5830f0dd2f73aef7b
 
 **2. Eje vertical rotatorio**
 - Acero inoxidable torneado
@@ -47,9 +45,9 @@
 ### Grupo 3 — Sistema de torque
 
 **8. Polea redireccionadora**
-- Polea de nylon impresa en 3D *(recomendado por costo)*
+- Polea de nylon impresa en 3D
 - Polea de plastico ABS con rodamiento interno
-- Polea de aluminio mecanizado
+- Polea de aluminio mecanizado *(recomendado por calidad/precio)*
 
 **9. Hilo de suspension**
 - Hilo de pesca monofilamento 8-10 lb *(recomendado por costo)*
