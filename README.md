@@ -40,6 +40,6 @@ Validar experimentalmente la expresión teórica $I = MR^2$ para una masa puntua
 * [x] Selección del reto
 * [x] Diseño conceptual
 * [x] Diseño CAD
-* [ ] Fabricación
-* [ ] Experimentación
-* [ ] Análisis de resultados
+* [x] Fabricación
+* [x] Experimentación
+* [x] Análisis de resultados
